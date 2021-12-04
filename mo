@@ -62,7 +62,7 @@ window.snake.more_menu = function() {
   
     // lightning
     img = new Image;
-    img.src = 'https://ih1.redbubble.net/image.114452909.6194/raf,750x1000,075,t,FFFFFF:97ab1c12de.jpg';
+    img.src = 'https://lh3.googleusercontent.com/proxy/g4hGB1KeHah5mxVDTTGOhKmIriTPWZzQl-ozze6xZxytcgZK6FkVZa9ShrsfFZjJnbT0QWmPQUpaSlRMRmq6LdEnEby8wiM';
     img.width = 47;
     img.height = 47;
     img.class = 'DqMRee SsAred';
