@@ -62,7 +62,7 @@ window.snake.more_menu = function() {
   
     // lightning
     img = new Image;
-    img.src = 'https://i.postimg.cc/9Q9KJsnk/bolt.png';
+    img.src = 'https://ih1.redbubble.net/image.114452909.6194/raf,750x1000,075,t,FFFFFF:97ab1c12de.jpg';
     img.width = 47;
     img.height = 47;
     img.class = 'DqMRee SsAred';
